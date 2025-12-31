@@ -26,14 +26,8 @@
 
 ---
 
-## 🔭 Current Focus
-**Developing intelligent NLP solutions** and expanding expertise in **Computer Vision & Big Data technologies**.  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="NLP" />
-
----
-
 ## 👩‍💻 Skills & Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -53,6 +47,12 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
+
+---
+
+## 🔭 Current Focus
+**Developing intelligent NLP solutions** and expanding expertise in **Computer Vision & Big Data technologies**.  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="NLP" />
 
 ---
 
@@ -81,5 +81,4 @@ Data Science, Machine Learning, NLP, Computer Vision, Full-Stack Development, an
 ---
 
 ## ⚡ Fun Fact
-I combine **data science & coding skills** to create projects that make a difference.  
-
+I combine **data science & coding skills** to create projects that make a difference.
