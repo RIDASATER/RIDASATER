@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ridasater&label=Profile%20views&color=ff69b4&style=flat" alt="ridasater" />
+  <img src="https://komarev.com/ghpvc/?username=ridasater&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridasater&row=1&column=7&theme=radical" alt="ridasater" /></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=ridasater&theme=radical"><img src="https://github-profile-trophy.vercel.app/?username=ridasater&theme=radical" alt="GitHub Trophies" /></a>
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ I combine my passion for **coding & data science** to create projects that **hel
 
 ## 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridasater&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridasater&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridasater&layout=compact&theme=radical" alt="Top Languages" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridasater&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridasater" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridasater&theme=radical" alt="GitHub Streak" /></p>
