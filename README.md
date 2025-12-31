@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://twitter.com/ridasater" target="_blank"><img src="https://img.shields.io/twitter/follow/ridasater?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/ridasater" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@ridasater" target="_blank"><img src="https://img.shields.io/badge/Medium-Articles-black?logo=medium&style=for-the-badge" alt="Medium" /></a>
+  <a href="https://medium.com/@saterrida" target="_blank"><img src="https://img.shields.io/badge/Medium-Articles-black?logo=medium&style=for-the-badge" alt="Medium" /></a>
 </p>
 
 ---
