@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#0e75b6">SATER Rida</span></h1>
-<h3 align="center">Data Scientist | Full-Stack Web Developer 🚀</h3>
+<h3 align="center">Full-Stack Data Science & Software Engineer 🚀</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="waving-hand"/>
