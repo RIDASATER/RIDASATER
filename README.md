@@ -51,8 +51,8 @@
 ---
 
 ## 🔭 Current Focus
-**Developing intelligent NLP solutions** and expanding expertise in **Computer Vision & Big Data technologies**.  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="NLP" />
+**Building a Decision Support System (DSS) for Water Resource Management**, focusing on **data integration, hydrological analysis, and predictive modeling**.  
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Data Analysis" />
 
 ---
 
