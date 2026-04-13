@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner — replace with your own via profileme.dev or capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Rida%20SATER&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=d0e8ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Rida%20SATER&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Software Engineer%20Developer&descAlignY=58&descColor=d0e8ff)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rida-sater)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RidaSater65763)
