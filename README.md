@@ -15,12 +15,12 @@
 
 ## 👋 About Me
 
-I'm a **Master's student in Data Science** and a **Full-Stack Developer** based in Morocco, passionate about building data-driven solutions that create real-world impact.
+I'm a **Data Scientist** and a **Software Engineer** based in Morocco, passionate about building data-driven solutions that create real-world impact.
 
 - 🔭 Currently building a **Decision Support System (DSS) for Water Resource Management** — integrating data pipelines, hydrological analysis, and predictive modeling
 - 🌱 Deepening my expertise in **Advanced ML**, **Cloud Architecture**, and **Scalable Web Applications**
 - 🤝 Open to collaborate on **Data Science**, **Data Engineering**, and **Web Development** projects
-- 💬 Ask me about: `Machine Learning` · `NLP` · `Computer Vision` · `Full-Stack Development`
+- 💬 Ask me about: `Machine Learning` · `NLP` · `Computer Vision` · `Software Engineer`
 - ⚡ Fun fact: I bridge the gap between raw data and intuitive, user-facing products
 
 ---
